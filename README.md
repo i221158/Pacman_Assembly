@@ -32,14 +32,11 @@ It runs in the console and features classic Pac-Man gameplay, menus, levels, sco
    ```bash
    ml /c /coff Source.asm
    link /subsystem:console Source.obj Irvine32.lib Winmm.lib Shell32.lib
-````
-
 4. Run the executable in a Windows console:
 
    ```bash
    Source.exe
    ```
-
 ## 🎮 Controls
 
 * **W** — Move Up
@@ -59,7 +56,3 @@ This project is for educational purposes. You may modify and distribute it with 
 
 Enjoy retro Pac-Man vibes in pure assembly!
 
-```
-
-Would you like me to include **screenshot placeholders** (so when you add images to the repo, they’ll show up in the README)?
-```
